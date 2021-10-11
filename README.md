@@ -1,16 +1,24 @@
-# flutter_proj4
+# Flutter Expense Tracker
 
-A new Flutter project.
+#### My First Flutter Dummy Project. It is an Expense Tracker. It takes amount and item name as inputs and show you a list of items that you have spent your money on and a chart where you can see your weekly spendings. You can also delete a particular item and add unlimited number of items. I have made it adaptive and responsive for IOS and Android devices in any screen size and shape and orientation(Landscape or Portrait).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to setup on your system :- 
 
-A few resources to get you started if this is your first Flutter project:
+#### Requirements : 
+ 1. Flutter
+ 2. Android Studio 
+ 3. Emulator/Real Device(Android/IOS)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### How to install : 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Check the Official Docs link for installing Flutter : https://flutter.dev/docs/get-started/install 
+2. How to setup the emulator on android studio : https://developer.android.com/studio/run/emulator 
+3. or, connect a physical device : https://stackoverflow.com/questions/54444538/how-do-i-run-test-my-flutter-app-on-a-real-device
+
+
+
+
+
+
+
